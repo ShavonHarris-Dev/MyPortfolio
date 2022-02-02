@@ -380,6 +380,10 @@ strong {
   margin-left: 0;
 }
 
+#chose{
+  margin-bottom: 20px;
+}
+
 .section.projects {
   padding-bottom: 0px;
 }
